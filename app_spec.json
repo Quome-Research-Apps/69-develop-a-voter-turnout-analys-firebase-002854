@@ -1,0 +1,1 @@
+{"name": "69-develop-a-voter-turnout-analys-firebase-002854", "spec": {"port": 8000, "containers": [{"image": "", "name": "69-develop-a-voter-turnout-analys-firebase-002854", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
